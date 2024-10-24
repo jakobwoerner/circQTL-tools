@@ -1,6 +1,6 @@
 Analysis tools for circadian QTL discovery
 
-To run the circQTL pipeline, use circQTL.R with the following arguments in order
+To run the circQTL pipeline, use `circQTL.R` with the following arguments in order
 
 * known_chr
 * start_interval
